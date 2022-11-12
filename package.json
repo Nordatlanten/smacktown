@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nordatlanten/Smacktown.git"
+    "url": "git+https://github.com/Nordatlanten/smacktown.git"
   },
   "author": "AT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nordatlanten/Smacktown/issues"
+    "url": "https://github.com/Nordatlanten/smacktown/issues"
   },
-  "homepage": "https://github.com/Nordatlanten/Smacktown#readme",
+  "homepage": "https://github.com/Nordatlanten/smacktown#readme",
   "dependencies": {
     "eslint-config-next": "^13.0.3",
     "next": "^13.0.3",
